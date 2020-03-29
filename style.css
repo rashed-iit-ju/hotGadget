@@ -1,0 +1,74 @@
+.card{
+    border-radius: 10px;
+    box-shadow: 5px 5px 8px rgb(230, 227, 227);
+    padding: 20px 30px;
+}
+.card-body-banner{
+    padding-top: 100px;
+    padding-left: 50px;
+}
+.card-body{
+    text-align: center;
+}
+.buy-now{
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+    padding: 5px 15px;
+}
+.container{
+    padding-top: 50px;
+}
+.cat-1{
+    box-shadow: 5px 5px 15px gainsboro;
+    text-align: center;
+    padding: 20px 30px;
+    border-radius: 5px;
+    border-top-right-radius: 10px;
+    border-bottom-left-radius: 20px;
+}
+.cat-2{
+    box-shadow: 5px 5px 15px gainsboro;
+    text-align: center;
+    padding: 20px 30px;
+    border-radius: 5px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 20px;
+}
+.cat-3{
+    margin-top: 30px;
+    box-shadow: 5px 5px 15px gainsboro;
+    text-align: center;
+    padding: 20px 30px;
+    border-radius: 5px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 20px;
+}
+.shop-cart{
+    padding-left: 20px;
+}
+.carousel-indicators li{
+    background-color: orangered;
+    height: 6px;
+    border-radius: 30%;
+}
+.footer{
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+.p-2 p{
+    color: orange;
+}
+.category{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.underline{
+    margin-left: 500px;
+    height: 6px;
+    width: 80px;
+    border-radius: 5px;
+    background-color: orange;
+}
+
+
